@@ -20,3 +20,5 @@ Advance Features:
 <img width="2588" height="1661" alt="qr_code_scanner" src="https://github.com/user-attachments/assets/3a540315-9ede-4c3a-8619-f523a6a3f3e2" />
 <img width="1191" height="1214" alt="visitor_checkedout_after_scan" src="https://github.com/user-attachments/assets/ab90d836-74ec-4d24-ac5d-6dca5bb561c9" />
 <img width="1032" height="1532" alt="report_pdf_downloaded" src="https://github.com/user-attachments/assets/1a71f332-7570-4a58-8d75-fdb6f29e334f" />
+
+For complete project source code and database link, contact: ayeshamishree@gmail.com
